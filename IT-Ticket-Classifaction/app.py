@@ -60,7 +60,7 @@ if file is not None:
                 pred = model.predict(X)
         
             # Load category mapping
-            cat = pd.read_csv('Cat.csv')
+            cat = pd.read_csv('IT-Ticket-Classifaction/Cat.csv')
             categories = list(cat['Main Category'])  # Ensure 'Main Category' exists
             
             # Reverse one-hot encoding
