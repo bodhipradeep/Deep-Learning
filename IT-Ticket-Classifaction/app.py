@@ -13,7 +13,7 @@ st.write(':blue[Model accuracy ranges from 85% to 95% depending on data quality.
 
 # Load the pre-trained model
 try:
-    model = load_model('model.h5')
+    model = load_model('IT-Ticket-Classifaction/model.h5')
     st.success('Model is successfully loaded and ready for data analysis!')
 except Exception as e:
     st.error(f"Failed to load model: {e}")
