@@ -11,23 +11,8 @@ Test: Contains X-ray images for testing.
 Each directory has two categories:
 
 NORMAL: Images of healthy lungs.  
-PNEUMONIA: Images showing signs of pneumonia.   
-Directory Structure   
-plaintext
-Copy code
-chest_xray/
-│
-├── train/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-│
-├── test/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-│
-└── val/
-    ├── NORMAL/
-    └── PNEUMONIA/
+PNEUMONIA: Images showing signs of pneumonia.    
+
 EDA and Visualization
 Sample Images
 Below are some sample images from the Normal and Pneumonia categories in the training set:
