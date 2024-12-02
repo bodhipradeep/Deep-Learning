@@ -43,15 +43,15 @@ Fully Connected Layers with Sigmoid activation for binary classification
 Training was conducted with EarlyStopping and ModelCheckpoint to prevent overfitting and save the best model based on validation loss.  
 
 
-Evaluation
-Test Accuracy: 86.86%
+Evaluation   
+Test Accuracy: 86.86%   
 
-Confusion Matrix
+Confusion Matrix   
 ![image](https://github.com/user-attachments/assets/8aa77254-c7bc-40ea-b021-402d2e23751b)
 
-Plot Training and Validation Accuracy & Loss
+Plot Training and Validation Accuracy & Loss   
 ![image](https://github.com/user-attachments/assets/5f290731-7420-48d8-91a6-2cdf67fcaa1d)
 
 Predictions on Test Set   
-Below are some sample predictions:
+Below are some sample predictions:   
 ![image](https://github.com/user-attachments/assets/ce9bc007-0973-4409-87f7-e04a70934361)
