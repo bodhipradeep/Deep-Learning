@@ -3,7 +3,8 @@
 This project demonstrates a deep learning-based approach to detect pneumonia from chest X-ray images using a Convolutional Neural Network (CNN). The dataset is sourced from the Kaggle Chest X-ray Pneumonia Dataset.
 
 ### Dataset
-The dataset is organized into three directories:
+The dataset is organized into three directories:   
+![image](https://github.com/user-attachments/assets/ecd16c48-8139-48d7-a5ee-1429c0c958c5)
 
 Train: Contains X-ray images for training.   
 Validation: Contains X-ray images for model validation.   
