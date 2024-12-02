@@ -15,20 +15,20 @@ PNEUMONIA: Images showing signs of pneumonia.
 
 EDA and Visualization
 Sample Images
-Below are some sample images from the Normal and Pneumonia categories in the training set:
-Normal
+Below are some sample images from the Normal and Pneumonia categories in the training set:   
+Normal   
 ![image](https://github.com/user-attachments/assets/e28e5d84-3c8d-4ded-94fd-092bb46b6cea)
 
-Pneumonia
+Pneumonia   
 ![image](https://github.com/user-attachments/assets/60b42953-406e-40be-869a-119580a82e6d)
 
-Image Distribution in Dataset
+Image Distribution in Dataset   
 ![image](https://github.com/user-attachments/assets/f60f68e9-8ccb-44c0-9630-4827b8176907)
 
-Pie Chart of Image Distribution
+Pie Chart of Image Distribution   
 ![image](https://github.com/user-attachments/assets/0fb85d52-3a36-41c4-8725-2676697672ea)
 
-Data Augmentation and Preprocessing
+Data Augmentation and Preprocessing   
 We used ImageDataGenerator to apply data augmentation techniques like rotation, zoom, shear, and horizontal flipping. This helps improve the generalization of the model.
 
 Model Architecture   
