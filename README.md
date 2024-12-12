@@ -24,7 +24,7 @@ project-name/
 ## 📝 Projects
 
 ### Current Projects
-- **[IT-Ticket-Classification](https://github.com/pradeep-kumar8/Deep-Learning/tree/main/IT-Ticket-Classifaction))**: This project can classify IT tickets based on ticket symptom.
+- **[IT-Ticket-Classification](https://github.com/pradeep-kumar8/Deep-Learning/tree/main/IT-Ticket-Classifaction)**: This project can classify IT tickets based on ticket symptom.
 - **[Pneumonia Detection From Chest X-Ray](https://github.com/pradeep-kumar8/Deep-Learning/tree/main/Pneumonia-Detection-from-Chest-X-rays)**: Applied CNN technique to identify Pneumonia.
 
 ### Upcoming Projects
@@ -73,8 +73,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## 📫 Contact
 
 If you have any questions or just want to connect, feel free to reach out:
-- Email: your-email@example.com
-- LinkedIn: (https://github.com/pradeep-kumar8/Deep-Learning)
+- Email: [Gmail](pradeep.kumar.professionals@gmail.com)
+- LinkedIn: [Linkedin Profile](inkedin.com/in/pradeep-kumar8)
 
 ---
 
