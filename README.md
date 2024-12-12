@@ -2,7 +2,7 @@
 
 Welcome to the **Deep Learning Projects** repository! 🚀
 
-This repository is dedicated to showcasing a variety of deep learning projects, including experiments, implementations, and tutorials. The projects are continuously updated to reflect my journey and growth in the field of deep learning.
+This repository showcases various deep learning projects, including experiments, implementations, and tutorials. The projects are continuously updated to reflect my journey and growth in the field.
 
 ---
 
@@ -38,14 +38,14 @@ Stay tuned for more exciting deep learning projects, including:
 ## 🚀 How to Use
 
 ### Requirements
-- Python 3.8+
+- Python, scikit-learn, pandas, NLTK
 - PyTorch, TensorFlow, or other deep learning frameworks
 - Additional requirements will be specified in each project's `requirements.txt`
 
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deep-learning-projects.git
+git clone https://github.com/pradeep-kumar8/deep-learning-projects.git
 cd deep-learning-projects
 ```
 Install dependencies for a specific project:
