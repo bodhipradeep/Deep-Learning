@@ -73,7 +73,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## 📫 Contact
 
 If you have any questions or just want to connect, feel free to reach out:
-- Email: [Gmail](pradeep.kumar.professionals@gmail.com)
+- Email: [Gmail](mailto:pradeep.kmr.pro@gmail.com)
 - LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/pradeep-kumar8)
 
 ---
